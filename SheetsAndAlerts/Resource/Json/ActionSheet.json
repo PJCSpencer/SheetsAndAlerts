@@ -1,0 +1,12 @@
+{
+    "default" :
+    {
+        "title"                     : null,
+        "cancelButtonTitle"         : "com.spencers-dm.sheets-and-alerts.buttons.cancel",
+        "destructiveButtonTitle"    : null,
+        "otherButtonTitles"         : [
+                                       "com.spencers-dm.sheets-and-alerts.buttons.add",
+                                       "com.spencers-dm.sheets-and-alerts.buttons.remove"
+                                       ]
+    }
+}

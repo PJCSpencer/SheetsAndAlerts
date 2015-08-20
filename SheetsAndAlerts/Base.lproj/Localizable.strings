@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  SheetsAndAlerts
+
+  Created by Peter JC Spencer on 18/08/2015.
+  Copyright (c) 2015 Spencer's digital media. All rights reserved.
+*/
+
+
+/* Buttons. */
+"com.spencers-dm.sheets-and-alerts.buttons.ok" = "OK";
+"com.spencers-dm.sheets-and-alerts.buttons.cancel" = "Cancel";
+"com.spencers-dm.sheets-and-alerts.buttons.add" = "Add";
+"com.spencers-dm.sheets-and-alerts.buttons.remove" = "Remove";
+
+
+/* Message. */
+"com.spencers-dm.sheets-and-alerts.message.generic" = "This is a message.";
+
+

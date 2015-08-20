@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  SheetsAndAlerts
+//
+//  Created by Peter JC Spencer on 18/08/2015.
+//  Copyright (c) 2015 Spencer's digital media. All rights reserved.
+//
+
+#ifndef SheetsAndAlerts_PrefixHeader_pch
+#define SheetsAndAlerts_PrefixHeader_pch
+
+
+#include "sdmStrings.h"
+
+
+#endif
+
+

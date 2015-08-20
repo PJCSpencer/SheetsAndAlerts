@@ -1,0 +1,9 @@
+{
+    "default" :
+    {
+        "image"                     : "LikeIcon.png",
+        "message"                   : "com.spencers-dm.sheets-and-alerts.message.generic",
+        "cancelButtonTitle"         : "com.spencers-dm.sheets-and-alerts.buttons.ok",
+        "otherButtonTitle"          : "com.spencers-dm.sheets-and-alerts.buttons.cancel"
+    }
+}
